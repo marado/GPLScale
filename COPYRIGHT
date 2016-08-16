@@ -1,7 +1,10 @@
-This source code is distributed as part of MariaDB Corporation MaxScale. It is free
+This source code is distributed as part of GPLscale. It is free
 software: you can redistribute it and/or modify it under the terms of the
 GNU General Public License as published by the Free Software Foundation,
-version 2.
+version 2.  This software is a fork of the GPL v2 codebase of 
+MariaDB Corporation MaxScale.  This software is GPL v2 licensed
+and is free from restrictions of the "BSL" license under which version
+2.0.0 and later of the "upstream" are released.
 
 This program is distributed in the hope that it will be useful, but WITHOUT
 ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
@@ -13,8 +16,11 @@ this program; if not, write to the Free Software Foundation, Inc., 51
 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 
 Copyright MariaDB Corporation Ab 2013
-
 MariaDB Corporation Corporation Ab
 Tekniikantie 12
 02150 Espoo
 Finland
+
+Copyright Justin Swanhart 2016
+1103 Emilio ST, A103
+Johnstown, PA  15904
