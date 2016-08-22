@@ -24,8 +24,6 @@ function pointers. This structure is called the "module object".
 The code that routes the queries to the database servers is also loaded
 as external shared objects and are referred to as routing modules.
 
-Bugs can be reported in the GitHub issue tracker.
-
 # Documentation
 
 For information about installing and using GPLScale, please refer to the
